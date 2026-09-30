@@ -2,12 +2,15 @@
 
 # Jainesh Bharti
 
-**B.Tech, Big Data Analytics | SRM University AP | Class of 2028**
+### B.Tech Big Data Analytics | SRM University AP
 
-Building data-driven ML systems and the web applications that put them to use.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+ML+projects+that+solve+real+problems;Web+apps+that+make+ML+easy+to+use;SIH+2026+Internal+Round+Qualifier)](https://github.com/JaineshBharti5)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaineshbharti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaineshbharti454@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaineshbharti454@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaineshBharti5)
+
+![Profile Views](https://komarev.com/ghpvc/?username=JaineshBharti5&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -15,105 +18,92 @@ Building data-driven ML systems and the web applications that put them to use.
 
 ## About
 
-I am an undergraduate specializing in Big Data Analytics. I enjoy taking a raw dataset through the full pipeline: collection, feature engineering, modelling and finally a usable interface, so the result is something people can actually work with.
+B.Tech student specializing in Big Data Analytics at SRM University AP (Class of 2028). I work with large datasets to build ML models and analytics pipelines, and I build web apps that make the results easy to use.
 
-**Areas of interest**
+- Working on big data analytics, machine learning and edge-deployable models
+- Building interactive web applications with JavaScript and React
+- Looking for internships and open-source contributions in data and AI/ML
 
-- Big data processing and analytics with PySpark
-- Applied machine learning and model evaluation
-- TinyML and edge deployment
-- Interactive dashboards and web applications
+## Achievements
 
-Currently looking for internships and open-source collaboration in data and AI/ML.
+- Cleared the internal round of **Smart India Hackathon (SIH) 2026** at SRM University AP, ranking among the **top 50 teams**
 
-## Education
+## Tech Stack
 
-| Degree | Institution | Duration | Score |
-|:--|:--|:--|:--|
-| B.Tech, Artificial Intelligence & Machine Learning (Big Data Analytics specialization) | SRM University AP | 2024 - 2028 | CGPA 8.3 / 10 |
+**Languages**
 
-## Experience
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Research Intern: TinyML for Object Detection in Adverse Weather**
-*Faculty-supervised research internship, SRM University AP*
+**Big Data & Analytics**
 
-- Studied lightweight detection models for resource-constrained devices, including MCUNet, NanoDet, YOLOv8n, PP-PicoDet and EfficientDet
-- Reviewed image restoration and domain adaptation methods for fog and low-visibility conditions
-- Ran a t-SNE domain gap visualization to compare feature distributions across weather conditions
-- Wrote a structured literature review using papers from IEEE, Elsevier and Springer
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**APSCHE VIP Program (via SmartBridge)**
-*ServiceNow track with Salesforce and cloud training*
+**Machine Learning & Data**
 
-- Completed the ServiceNow University "Welcome to ServiceNow" course and earned the badge
-- Worked through Salesforce Trailhead tasks covering Agentforce, developer org setup and Experience Cloud deployment
-- Completed Google Cloud Skills Boost generative AI labs
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## Technical Skills
+**Web Development**
 
-| Area | Technologies |
-|:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Big Data** | ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
-| **ML & Data Science** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## Featured Projects
 
-### [Open-Source Package Abandonment Predictor](https://github.com/JaineshBharti5/package-abandonment-predictor)
+<details open>
+<summary><b>Big Data & Analytics</b></summary>
+<br>
 
-*Big Data Analytics course project* | `Python` `PySpark` `scikit-learn` `Streamlit`
+| Project | Description | Stack |
+|---|---|---|
+| [package-abandonment-predictor](https://github.com/JaineshBharti5/package-abandonment-predictor) | Predicts abandonment risk of open-source packages using registry and GitHub metadata | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [dataprofiler](https://github.com/JaineshBharti5/dataprofiler) | Quick profiling and summary of datasets | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-Predicts which widely used open-source packages are at risk of becoming unmaintained, using registry and GitHub metadata such as commit activity, maintainer count and release history.
+</details>
 
-- Collected data for 1,758 npm packages and built a labeled dataset of 1,632 records (388 unmaintained, 1,244 maintained) using PySpark feature engineering
-- Trained a Random Forest model that reached 91% accuracy and 91% recall on the unmaintained class
-- Retrained without the release-recency feature to test dependence on it: accuracy dropped to 86% and recall to 64%, showing it is the strongest single signal
-- Built a Streamlit dashboard with searchable risk scores and a list of high-risk packages that are still maintained
+<details open>
+<summary><b>Machine Learning</b></summary>
+<br>
 
-### Polar Guard AI: Antarctic Navigation Intelligence
+| Project | Description | Stack |
+|---|---|---|
+| [bearing-fault-detection-ml](https://github.com/JaineshBharti5/bearing-fault-detection-ml) | Detects bearing faults from vibration signals, built with edge deployment in mind | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-*Smart India Hackathon 2026 project* | `React` `Vite` `FastAPI` `Leaflet`
+</details>
 
-Decision support system for safer and more efficient ship routing in Antarctic waters, built for problem statement SIH26059 (Ministry of Earth Sciences / NCPOR).
+<details open>
+<summary><b>Web Applications</b></summary>
+<br>
 
-- Upgrades a static route recommendation demo into a hazard-aware system covering ship tracking, iceberg drift prediction, sonar detection ingestion and dynamic route recalculation
-- Interactive Antarctic map using the polar (EPSG:3031) projection
-- Scroll-driven project website with a chapter-based walkthrough of the pipeline: observe, predict, fuse, assess, optimize and reroute
+| Project | Description | Stack |
+|---|---|---|
+| [Electro-Map](https://github.com/JaineshBharti5/Electro-Map) | Find EV charging stations with interactive maps and route planning | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [Human-Body-Explorer](https://github.com/JaineshBharti5/Human-Body-Explorer) | Interactive explorer for learning about the human body | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [finwise-ai](https://github.com/JaineshBharti5/finwise-ai) | AI-powered personal finance assistant | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
-### [bearing-fault-detection-ml](https://github.com/JaineshBharti5/bearing-fault-detection-ml)
+</details>
 
-*Machine Learning* | `Python`
+## Contact
 
-Machine learning project for detecting bearing faults from vibration signals, with edge deployment in mind.
-
-### [Electro-Map](https://github.com/JaineshBharti5/Electro-Map)
-
-*Web Application* | `JavaScript`
-
-Web application to locate and explore electric vehicle charging stations, with interactive maps, route planning and user management features.
-
-### Other work
-
-| Project | Type | Description |
-|:--|:--|:--|
-| [dataprofiler](https://github.com/JaineshBharti5/dataprofiler) | Data tooling | Quick profiling and summary of datasets |
-| [Human-Body-Explorer](https://github.com/JaineshBharti5/Human-Body-Explorer) | Web application | Interactive explorer for learning about the human body |
-| [finwise-ai](https://github.com/JaineshBharti5/finwise-ai) | Web application | AI-powered personal finance assistant |
-
-## Certifications and Training
-
-- ServiceNow University: Welcome to ServiceNow (badge earned, May 2026)
-- Salesforce Trailhead: Agentforce and Experience Cloud modules
-- Google Cloud Skills Boost: Generative AI labs
-
----
-
-<div align="center">
-
-Open to internships, collaborations and open-source work.
-
-[LinkedIn](https://www.linkedin.com/in/jaineshbharti) · [Email](mailto:jaineshbharti454@gmail.com)
-
-</div>
+Open to internships, collaborations and open-source work. Reach me through any badge at the top.
