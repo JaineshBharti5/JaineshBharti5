@@ -4,11 +4,10 @@
 
 ### B.Tech Big Data Analytics | SRM University AP
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+ML+projects+that+solve+real+problems;Web+apps+that+make+ML+easy+to+use;SIH+2026+Internal+Round+Qualifier)](https://github.com/JaineshBharti5)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+ML+projects+that+solve+real+problems;Web+apps+that+make+ML+easy+to+use;SIH+2026+Internal+Round+Qualifier)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaineshbharti)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaineshbharti454@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaineshBharti5)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JaineshBharti5&color=6C63FF&style=flat-square&label=Profile+Views)
 
