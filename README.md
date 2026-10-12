@@ -115,7 +115,6 @@ B.Tech student specializing in Big Data Analytics at SRM University AP (Class of
 | Project | Description | Stack |
 |---|---|---|
 | [Electro-Map](https://github.com/JaineshBharti5/Electro-Map) | Find EV charging stations with interactive maps and route planning | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [Human-Body-Explorer](https://github.com/JaineshBharti5/Human-Body-Explorer) | Interactive explorer for learning about the human body | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [finwise-ai](https://github.com/JaineshBharti5/finwise-ai) | AI-powered personal finance assistant | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 </details>
