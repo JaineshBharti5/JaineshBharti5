@@ -86,37 +86,20 @@ B.Tech student specializing in Big Data Analytics at SRM University AP (Class of
 
 ## Featured Projects
 
-<details open>
-<summary><b>Big Data & Analytics</b></summary>
-<br>
-
 | Project | Description | Stack |
 |---|---|---|
 | [package-abandonment-predictor](https://github.com/JaineshBharti5/package-abandonment-predictor) | Predicts abandonment risk of open-source packages using registry and GitHub metadata | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [dataprofiler](https://github.com/JaineshBharti5/dataprofiler) | Quick profiling and summary of datasets | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-</details>
-
-<details open>
-<summary><b>Machine Learning</b></summary>
-<br>
-
-| Project | Description | Stack |
-|---|---|---|
+| [AP-HRRN-CPU-Scheduler](https://github.com/JaineshBharti5/AP-HRRN-CPU-Scheduler) | New CPU scheduling algorithm that addresses the weaknesses of SJF and HRRN, with a simulator | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [bearing-fault-detection-ml](https://github.com/JaineshBharti5/bearing-fault-detection-ml) | Detects bearing faults from vibration signals, built with edge deployment in mind | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-</details>
-
-<details open>
-<summary><b>Web Applications</b></summary>
-<br>
-
-| Project | Description | Stack |
-|---|---|---|
-| [Electro-Map](https://github.com/JaineshBharti5/Electro-Map) | Find EV charging stations with interactive maps and route planning | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [finwise-ai](https://github.com/JaineshBharti5/finwise-ai) | AI-powered personal finance assistant | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
-</details>
+## Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [DataDriftX](https://github.com/JaineshBharti5/DataDriftX) | Detects data drift between datasets | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Electro-Map](https://github.com/JaineshBharti5/Electro-Map) | Find EV charging stations with interactive maps and route planning | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [dataprofiler](https://github.com/JaineshBharti5/dataprofiler) | Quick profiling and summary of datasets | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ## Contact
 
